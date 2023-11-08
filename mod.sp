@@ -10,5 +10,5 @@ variable "token" {
   # TODO: Add once supported
   #sensitive  = true
   type        = string
-  # default     = ""
+  default     = "abcde"
 }
